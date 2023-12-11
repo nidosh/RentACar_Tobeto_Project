@@ -6,4 +6,5 @@
 - Nida Kasap
 - Halil İbrahim Karkın
 - Halis Melih Abak
-- Deneme1
+
+- Deneme
